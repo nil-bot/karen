@@ -1,0 +1,14 @@
+{
+    "token": "NjU1OTgxNjQ0NDM5NjE3NTM2.XfcAgw.CQXgs8PEZBkBIeX3jdxOOXHvICU",
+    "status": {
+        "state": "idle",
+        "type": "PLAYING",
+        "name": "Hi, ping me to chat."
+    },
+    "chat": {
+        "url": "http://api.brainshop.ai/get?bid=156147&key=q2ip1DvLVHJbNR5r&uid=[uid]&msg=[msg]",
+        "bid": "156147",
+        "key": "q2ip1DvLVHJbNR5r",
+        "uid": "Markbot"
+    }
+}
